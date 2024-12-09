@@ -1,0 +1,2 @@
+{"error": {"entity": "src/main/resources/products.json", "field": "file_format", "description": "Invalid JSON format or structure"}}
+{"error": {"entity": "Main", "field": "Execution", "description": "src\main\resources\products.json (Не удается найти указанный файл)"}}

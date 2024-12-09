@@ -1,0 +1,14 @@
+{
+  "productTypes": [
+    {
+      "prodTypeId": 11,
+      "prodTypeName": "Frozen chicken",
+      "prodIsFood": true
+    },
+    {
+      "prodTypeId": 18,
+      "prodTypeName": "Black tea in bags",
+      "prodIsFood": true
+    }
+  ]
+}

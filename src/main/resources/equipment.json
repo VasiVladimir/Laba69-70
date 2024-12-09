@@ -1,0 +1,14 @@
+{
+  "equipment": [
+    {
+      "equipType": 2,
+      "equipName": "Rotary Oven",
+      "equipActive": true
+    },
+    {
+      "equipType": 25,
+      "equipName": "Thermopot",
+      "equipActive": true
+    }
+  ]
+}

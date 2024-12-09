@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "prodTypeId": 1,
+      "prodTypeName": "Flour",
+      "prodIsFood": true
+    },
+    {
+      "prodTypeId": 2,
+      "prodTypeName": "Sugar",
+      "prodIsFood": true
+    },
+    {
+      "prodTypeId": 3,
+      "prodTypeName": "Salt",
+      "prodIsFood": true
+    }
+  ]
+}

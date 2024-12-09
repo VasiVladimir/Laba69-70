@@ -1,0 +1,23 @@
+{
+  "visitorsOrders": [
+    {
+      "visName": "Visitor123",
+      "visOrdStarted": "2024-11-25T10:00:00",
+      "visOrdEnded": null,
+      "visOrdTotal": 118.0,
+      "visOrdDishes": [
+        { "ordDishId": 1, "menuDish": 28 },
+        { "ordDishId": 2, "menuDish": 29 }
+      ]
+    },
+    {
+      "visName": "Visitor124",
+      "visOrdStarted": "2024-11-25T10:05:00",
+      "visOrdEnded": null,
+      "visOrdTotal": 59.0,
+      "visOrdDishes": [
+        { "ordDishId": 3, "menuDish": 28 }
+      ]
+    }
+  ]
+}
